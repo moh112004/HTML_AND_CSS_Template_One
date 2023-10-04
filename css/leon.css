@@ -58,7 +58,7 @@ body{
     text-align: center;
     color: #797979;
 }
-@media (max-width) {
+@media (max-width: 768px) {
     .special-heading {
         font-size: 60px;
     }
